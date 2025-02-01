@@ -107,3 +107,31 @@ Preispsychologie in Supermärkten (z. B. gebrochene Preise wie „9,99 €“ od
 3️⃣ **Emotionale Werbung**:
 
 - **Beispiel:** Apple nutzt emotionale Storytelling-Kampagnen, um **Markentreue aufzubauen**.
+
+
+# Mögliche Prüfungsfrage 
+
+**Aufgabe: Ökonomische Grundbegriffe und menschliches Verhalten – Von rationaler Nutzenmaximierung zum neuromarketinggestützten Entscheidungsverhalten**
+
+Medienunternehmen und Konsumenten handeln nach ökonomischen Grundprinzipien, wobei klassische Modelle den Menschen als rationalen Nutzenmaximierer („Homo Economicus“) betrachten. Neuere verhaltensökonomische Ansätze zeigen jedoch, dass menschliche Entscheidungen oft emotional, impulsiv und durch kognitive Verzerrungen beeinflusst werden. Diskutieren Sie anhand der folgenden Teilaufgaben:
+
+**a) Grundlagen der klassischen Ökonomie und Bedürfnisbefriedigung**
+
+- Erläutern Sie, wie das ökonomische Prinzip (Nutzenmaximierung) und das Konzept der begrenzten Ressourcen das Verhalten von Wirtschaftsindividuen prägen.
+- Gehen Sie dabei auf die unterschiedlichen Bedürfnisarten ein (z. B. anhand von Maslows Bedürfnishierarchie) und erklären Sie, warum Medienkonsum häufig höheren Bedürfnissen (wie Information, Unterhaltung und sozialer Interaktion) zugeordnet wird.
+
+**b) Grenzen des rationalen Modells und verhaltensökonomische Erkenntnisse**
+
+- Diskutieren Sie, inwiefern der klassische „Homo Economicus“ die Realität des menschlichen Entscheidungsverhaltens nicht vollständig abbildet.
+- Erläutern Sie anhand der Prospect Theory von Daniel Kahneman die zentralen Erkenntnisse (z. B. Verlustaversion, Priming-Effekte, Zwei-System-Modell), die zeigen, dass Menschen oft irrational handeln.
+- Geben Sie ein Beispiel, wie dieselbe Preisreduzierung (etwa „20 % Rabatt“ vs. „10 Euro Preisnachlass“) zu unterschiedlichen Reaktionen führen kann.
+
+**c) Anwendung neuromarketingbasierter Strategien**
+
+- Beschreiben Sie, wie verhaltensökonomische Erkenntnisse im Neuromarketing genutzt werden, um Kaufentscheidungen gezielt zu beeinflussen.
+- Nennen Sie konkrete Beispiele, wie etwa:
+    - **Preispsychologie**: Die Wirkung von gebrochenen Preisen (z. B. 9,99 € statt 10,00 €) in Supermärkten.
+    - **Abo-Modelle**: Wie Streaming-Anbieter durch differenzierte Preismodelle und Kündigungsbarrieren (z. B. Netflix) Kunden langfristig binden.
+    - **Emotionale Werbung**: Die Nutzung von Storytelling-Kampagnen (z. B. von Apple) zur Steigerung der Markentreue.
+      
+- Diskutieren Sie, inwiefern diese Strategien dazu beitragen, die Lücke zwischen der Theorie des rationalen Handelns und dem real gezeigten, oft irrationalen Konsumentenverhalten zu schließen.

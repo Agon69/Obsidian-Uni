@@ -150,3 +150,29 @@ Nicht alle Medien erfüllen diese Funktionen gleichermaßen. Wichtige Kriterien 
 
 Beispiel:  
 Unterschiede zwischen **investigativem Journalismus** (z. B. Washington Post) und **Boulevardmedien** (z. B. BILD).
+
+
+# Mögliche Prüfungsfrage 
+
+Medienunternehmen agieren als zentrale Produzenten von Medieninhalten, während Massenmedien als institutionalisierte Kommunikationskanäle nicht nur wirtschaftliche, sondern auch gesellschaftliche Funktionen erfüllen. Diskutieren Sie anhand der folgenden Teilaufgaben, wie ökonomische Grundprinzipien die Arbeitsweise von Medienunternehmen prägen und welche Rolle Massenmedien in der Informationsverbreitung und Meinungsbildung spielen.
+
+**a) Unternehmen als Anbieter von Mediengütern und ökonomische Zielsetzungen**
+
+- Definieren Sie den Begriff „Unternehmen“ im Kontext der Medienproduktion. Gehen Sie dabei auf wesentliche Merkmale ein (z. B. rechtliche Organisation, Kombination von Produktionsfaktoren, Fremdbedarfsdeckung, Gewinnmaximierung, ökonomisches Prinzip).
+- Vergleichen Sie aus ökonomischer Sicht die Zielsetzungen und Entscheidungsspielräume von Unternehmen mit denen von Individuen, insbesondere hinsichtlich der Bedürfnisbefriedigung versus Profiterzielung.
+
+**b) Fallbeispiel Netflix – Ökonomische Strukturen und unternehmerische Entscheidungen**
+
+- Beschreiben Sie kurz die wesentlichen ökonomischen Merkmale eines Medienunternehmens am Beispiel von Netflix (z. B. Rechtsform, Einsatz von Produktionsfaktoren, Markt- und Konkurrenzanalysen, Investitionsentscheidungen und Risikomanagement).
+- Erklären Sie, wie Netflix rationale, gewinnorientierte Entscheidungen trifft und dabei auf Markttrends (z. B. Nutzerverhalten, Konkurrenzdruck) reagiert, um seine Position im globalen Streaming-Markt zu behaupten.
+
+**c) Massenmedien – Definition, Merkmale und gesellschaftliche Funktionen**
+
+- Definieren Sie den Begriff „Massenmedien“ und erläutern Sie deren charakteristische Merkmale (z. B. öffentliche Verbreitung, technische Übertragungsmittel, einseitige Informationsübermittlung).
+- Diskutieren Sie die zentralen gesellschaftlichen Funktionen von Massenmedien (Information, Unterhaltung, Sozialisation, Integration, Kritik & Kontrolle, Meinungsbildung, ökonomische Funktion) und nennen Sie Kriterien zur Bewertung der Qualität von Medieninhalten (z. B. Aktualität, Relevanz, Objektivität, Verständlichkeit).
+
+**d) Technische Medien, Medienorganisationen und kommunikative Prozesse**
+
+- Erklären Sie anhand der Lasswell-Formel („Wer sagt was, über welchen Kanal, zu wem, mit welcher Wirkung?“), wie der Kommunikationsprozess in Medienunternehmen strukturiert ist.
+- Diskutieren Sie, welche Rolle technische Medien (z. B. Internet, Rundfunksender, Druckmaschinen) und verschiedene Arten von Medienorganisationen (private Unternehmen wie Netflix, öffentlich-rechtliche Anbieter wie ARD/ZDF, nichtkommerzielle Initiativen) bei der Produktion und Verbreitung von Medieninhalten spielen.
+- Wie tragen diese Organisationen dazu bei, sowohl die ökonomischen Ziele (z. B. Gewinnmaximierung, Marktdurchdringung) als auch die gesellschaftlichen Funktionen der Massenmedien zu erfüllen?

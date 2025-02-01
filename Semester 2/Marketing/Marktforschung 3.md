@@ -2,10 +2,10 @@
 # Was ist Marktforschung und warum ist das Wichtig?
 
 ### Marktforschung
-Marktforschung ist die <span style="color:rgb(255, 0, 0)">Gewinnung</span>, <span style="color:rgb(255, 0, 0)">Aufbereitung</span> und <span style="color:rgb(255, 0, 0)">Interpretation</span> von <span style="color:rgb(255, 0, 0)">Informationen</span>, die sich auf die <span style="color:rgb(255, 0, 0)">Fragestellungen</span> und <span style="color:rgb(255, 0, 0)">Problemfelder</span> des <span style="color:rgb(255, 0, 0)">Marketings</span> beziehen.
+Marktforschung ist die <span style="color:rgb(255, 255, 255)"><span style="color:rgb(255, 0, 0)">Gewinnung</span>, <span style="color:rgb(255, 0, 0)">Aufbereitung</span> und <span style="color:rgb(255, 0, 0)">Interpretation</span> von <span style="color:rgb(255, 0, 0)">Informationen</span>, die sich auf die <span style="color:rgb(255, 0, 0)">Fragestellungen</span> und <span style="color:rgb(255, 0, 0)">Problemfelder</span> des <span style="color:rgb(255, 0, 0)">Marketings</span> beziehen.
 (z.b. Kunden, Marktumfeld)
-
-Aktuelle <span style="color:rgb(255, 0, 0)">Daten</span> und tiefes <span style="color:rgb(255, 0, 0)">Verständnis</span> von <span style="color:rgb(255, 0, 0)">Märkten</span> und <span style="color:rgb(255, 0, 0)">Kunden</span> sind notwendig, für <span style="color:rgb(255, 0, 0)">Kundennutzen</span>und -<span style="color:rgb(255, 0, 0)">beziehungen</span> 
+</span>
+<span style="color:rgb(255, 255, 255)"><span style="color:rgb(255, 255, 255)"><span style="color:rgb(255, 255, 255)"></span></span></span>Aktuelle <span style="color:rgb(255, 0, 0)">Daten</span> und tiefes <span style="color:rgb(255, 0, 0)">Verständnis</span> von <span style="color:rgb(255, 0, 0)">Märkten</span> und <span style="color:rgb(255, 0, 0)">Kunden</span> sind notwendig, für <span style="color:rgb(255, 0, 0)">Kundennutzen</span>und -<span style="color:rgb(255, 0, 0)">beziehungen</span> 
 
 <span style="color:rgb(255, 0, 0)">Infos</span> werden benötigt, um die <span style="color:rgb(255, 0, 0)">Produkt</span>- und <span style="color:rgb(255, 0, 0)">Preispolitik</span> sowie die <span style="color:rgb(255, 0, 0)">Kommunikations</span>- und <span style="color:rgb(255, 0, 0)">Distributionspolitik</span> zu gestalten
 
@@ -268,4 +268,26 @@ Komplexe Fragestellungen erfordern komplexe Analyse-Methoden
 	- Ableitung von **Schlussfolgerungen** und **Handlungsempfehlungen**.
 
 ---
+
+
+# Mögliche Prüfungsfrage
+
+**Aufgabe 1: Marktforschung im digitalen Zeitalter – Das Beispiel Netflix**
+
+Viele Unternehmen, insbesondere digitale Plattformen wie Netflix, stützen ihre strategischen Entscheidungen (beispielsweise in der Produktentwicklung, Preisgestaltung und Kommunikationsmaßnahmen) auf fundierte Marktforschungsdaten. Dabei gewinnen moderne Technologien und Big Data zunehmend an Bedeutung. Bitte diskutieren Sie die Rolle und Bedeutung der Marktforschung im modernen Marketing anhand des Fallbeispiels Netflix und gehen Sie dabei auf folgende Aspekte ein:
+
+**a) Marktforschungsprozess im Kontext digitaler Medien:**
+
+- Stellen Sie sich vor, Sie sind Marktforschungsmanager/in bei Netflix. Erläutern Sie den typischen Prozess der Marktforschung – von der Problemdefinition (z. B. sinkende Zuschauerzahlen in bestimmten Zielgruppen oder Regionen) über die Festlegung der Zielsetzung und das Studiendesign bis hin zur Datenerhebung, -analyse und -interpretation.
+- Welche zentralen Schritte und Methoden (wie Online-Befragungen, Nutzerverhaltenstracking, Experimente) halten Sie in diesem digitalen Umfeld für besonders wichtig, um belastbare und aussagekräftige Ergebnisse zu erzielen?
+
+**b) Charakteristika und Einflussfaktoren in der digitalen Marktforschung:**
+
+- Diskutieren Sie, welche Charakteristika – insbesondere hinsichtlich der Datenquellen (Primärforschung versus Sekundärforschung), der Erhebungsmethoden (qualitative vs. quantitative Ansätze) und der Analyseverfahren – die Qualität und Aussagekraft der Marktforschungsergebnisse bei einem Unternehmen wie Netflix maßgeblich beeinflussen.
+- Gehen Sie dabei auch auf die jeweiligen Vor- und Nachteile ein, wenn es darum geht, beispielsweise Nutzerpräferenzen und -verhalten digital zu erfassen und auszuwerten.
+
+**c) Big Data und moderne Analysetechnologien als Erfolgsfaktoren:**
+
+- Analysieren Sie, wie Netflix Big Data und moderne Analysetools (z. B. Web Analytics, Cluster- oder Regressionsanalysen) einsetzt, um das Nutzerverhalten detailliert zu verstehen und personalisierte Content-Empfehlungen zu generieren.
+- Diskutieren Sie die Chancen, die sich aus der Integration großer und heterogener Datenmengen ergeben, sowie die Herausforderungen (z. B. Datenschutz, Datenqualität, technische Komplexität) und wie diese Technologien dazu beitragen, fundierte Marketingentscheidungen zu treffen.
 

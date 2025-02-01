@@ -52,13 +52,13 @@
 5️⃣ **Rezeption & Verwendung:**
 
 - Spieler konsumieren das Spiel, bewerten es und erstellen eigene Inhalte (Mods).
-
     - Das Spiel wurde veröffentlicht, doch die Community entwickelt Modifikationen, die teilweise kostenlos oder über den „Creation Club“ von Bethesda verkauft werden.
     - Diese Mods sind Teil der Wertschöpfung, indem sie das Grundspiel erweitern und neue Einnahmequellen schaffen.
+      
 - **Das „Hawk Tuah“-Meme**:
-    
     - Ein viraler YouTube-Clip führte zu einer unvorhersehbaren Medienwertschöpfung.
     - Marken nutzten das Meme für Werbezwecke, was zeigt, wie digitale Medien spontane Wertschöpfungsprozesse ermöglichen.
+      
  - **Warum ist das interessant für die Wertschöpfungskette?**
 
 - Es gibt **keine bewusste Konzeption & Initiierung** → das Video entsteht zufällig.
@@ -83,3 +83,25 @@
 - Die Wertschöpfungskette ist ein nützliches Analysewerkzeug für Medienunternehmen.
 - Allerdings müssen digitale und nicht-lineare Entwicklungen berücksichtigt werden, um den modernen Medienkonsum besser abzubilden.
 
+
+# Mögliche Prüfungsfrage 
+
+**Aufgabe 1: Analyse der Wertschöpfungskette in der Medienökonomie – Theoretische Grundlagen und digitale Transformation**
+
+Die klassische Wertschöpfungskette nach Michael E. Porter dient Unternehmen zur systematischen Analyse und Optimierung ihrer Geschäftsprozesse. In der Medienbranche ergeben sich jedoch besondere Herausforderungen, da digitale Prozesse oft nicht-linear verlaufen und Nutzerinteraktionen zunehmend Einfluss nehmen. Diskutieren Sie die Bedeutung und Anwendung der Wertschöpfungskette in der Medienökonomie, indem Sie auf folgende Teilaufgaben eingehen:
+
+**a) Theoretische Grundlagen und Relevanz**
+
+- Definieren Sie den Begriff der Wertschöpfungskette nach Michael E. Porter und erläutern Sie, wie einzelne Aktivitäten zur Steigerung des Produktwerts beitragen.
+- Gehen Sie kurz darauf ein, warum die Analyse der Wertschöpfungskette Unternehmen dabei unterstützt, Effizienzpotenziale zu identifizieren, Kosten zu senken und Wettbewerbsvorteile aufzubauen.
+
+**b) Besonderheiten der Wertschöpfungskette in der Medienbranche**
+
+- Beschreiben Sie die typischen Kernaktivitäten der Medienwertschöpfungskette (z. B. Konzeption und Initiierung, Contentproduktion, Bündelung und Veredelung, Distribution und Rezeption).
+- Diskutieren Sie, inwiefern sich diese Kette von der klassischen, linearen Wertschöpfungskette unterscheidet – insbesondere im Hinblick auf digitale Medien, die durch Nutzerinteraktionen und nicht-lineare Prozesse gekennzeichnet sind.
+
+**c) Fallbeispiele und digitale Disruption**
+
+- Erklären Sie am Beispiel des Videospiels „Starfield“ von Bethesda, wie eine komplexe und teilweise nicht-lineare Wertschöpfungskette abläuft. Gehen Sie dabei auf die Rolle von Mods (z. B. über den „Creation Club“) ein und erläutern Sie, wie die Community als zusätzlicher Wertschöpfungsfaktor wirkt.
+- Diskutieren Sie anhand des „Hawk Tuah“-Meme, wie spontane, digitale Inhalte ohne bewusste Konzeption entstehen können und welche Implikationen dies für die traditionelle Darstellung der Wertschöpfungskette hat.
+- Welche Chancen und Herausforderungen ergeben sich aus der digitalen Transformation (z. B. durch Plattformen wie YouTube, TikTok oder Streaming-Dienste wie Netflix) für die klassische Wertschöpfungsanalyse?

@@ -44,21 +44,20 @@ Durch eine **gezielte Marktsegmentierung und klare Positionierung** kann ein Unt
 Das Bild zeigt die **Marketing-Mixbezogenen Reaktionskoeffizienten**, also verschiedene Kriterien zur Marktsegmentierung. Diese lassen sich in vier Hauptkategorien einteilen:
 
 1. **Verhaltensorientierte Kriterien**
-    
     - Preisverhalten (z. B. Preisklasse, Kauf von Sonderangeboten)
     - Mediennutzung (z. B. genutzte Medien, Intensität der Nutzung)
     - Einkaufsstättenwahl (z. B. Geschäftswechsel, Geschäftstreue)
     - Produktwahl (z. B. Markentreue, Kaufvolumen)
+      
 2. **Psychographische Kriterien**
-    
     - Persönlichkeitsmerkmale (z. B. Aktivitäten, Interessen, Lebensstil)
     - Produktspezifische Merkmale (z. B. Wahrnehmungen, Kaufabsichten, Nutzenvorstellungen)
+      
 3. **Soziodemographische Kriterien**
-    
     - Demographische Merkmale (z. B. Alter, Geschlecht, Familienstand)
     - Sozioökonomische Merkmale (z. B. Einkommen, Beruf, Ausbildung)
+      
 4. **Geographische Kriterien**
-    
     - Makrogeographische Merkmale (z. B. Bundesländer, Stadt/Land)
     - Mikrogeographische Merkmale (z. B. Wohngebiete, Straßenzüge)
 
@@ -153,40 +152,39 @@ Das Bild zeigt die **Marketing-Mixbezogenen Reaktionskoeffizienten**, also versc
 Das Bild stellt eine **Sozialstrukturanalyse** dar und basiert auf dem **Sinus-Milieu-Modell**, das verschiedene gesellschaftliche Gruppen anhand ihrer **sozialen Lage** und **Grundorientierung** klassifiziert.
 ### **Die Milieus im Überblick:**
 
-1. **Konservativ-Gehobenes Milieu (11%)**
-    
+5. **Konservativ-Gehobenes Milieu (11%)**
     - Wohlhabend, traditionsbewusst, hohe Bildung
     - Wertet Sicherheit, Status und klassische Kultur
-2. **Postmaterielles Milieu (12%)**
-    
+      
+6. **Postmaterielles Milieu (12%)**
     - Höher gebildet, liberal, nachhaltig orientiert
     - Politisch engagiert, Wert auf Selbstverwirklichung
-3. **Milieu der Performer (10%)**
-    
+      
+7. **Milieu der Performer (10%)**
     - Erfolgsorientierte, leistungsstarke Individuen
     - Dynamisch, digital-affin, innovationsfreudig
-4. **Expeditives Milieu (10%)**
     
+8. **Expeditives Milieu (10%)**
     - Junge, kreative, digitale Pioniere
     - Experimentierfreudig, international, urban
-5. **Neo-ökologisches Milieu (8%)**
-    
+      
+9. **Neo-ökologisches Milieu (8%)**
     - Nachhaltigkeit, bewusster Konsum, ethische Werte
     - Alternative Lebensstile, umweltbewusst
-6. **Adaptiv-Pragmatische Mitte (12%)**
-    
+      
+10. **Adaptiv-Pragmatische Mitte (12%)**
     - Flexible, anpassungsfähige Mittelschicht
     - Sicherheit, Aufstiegschancen, pragmatische Werte
-7. **Konsum-Hedonistisches Milieu (8%)**
-    
+      
+11. **Konsum-Hedonistisches Milieu (8%)**
     - Spaßorientiert, markenbewusst, trendaffin
     - Meist jüngere Zielgruppe, konsumfreudig
-8. **Nostalgisch-Bürgerliches Milieu (11%)**
-    
+      
+12. **Nostalgisch-Bürgerliches Milieu (11%)**
     - Klassisch, ordnungsliebend, Sicherheitsdenken
     - Traditionelle Werte, bodenständig
-9. **Traditionelles Milieu (9%)**
-    
+      
+13. **Traditionelles Milieu (9%)**
     - Ältere Generation
 
 
@@ -196,6 +194,7 @@ Das Bild stellt eine **Sozialstrukturanalyse** dar und basiert auf dem **Sinus-M
 - Zentrale Prüfkriterien: 
 	- Ist dieses Marktsegment für unser Unternehmen attraktiv?
 	- Kann unser Unternehmen für dieses Marktsegment ein passendes und wettbewerbsfähiges Angebot unterbreiten?
+
 - Eignung und Attraktivität von Zielmärkten
 	- **Marktpotenzial:** Größe, Wachstum und Gewinnspanne
 	- **Unternehmensfähigkeit:** Verfügbarkeit von Kompetenzen und Ressourcen
@@ -311,3 +310,27 @@ Die erfolgreiche Positionierung eines Produkts oder einer Marke erfordert eine k
 - **Vermeidung plötzlicher Änderungen**: Drastische Veränderungen der Markenwahrnehmung können Kunden verunsichern. Eine Umpositionierung erfordert daher Zeit und eine strategische Umsetzung.
 
 Eine erfolgreiche Umsetzung der Positionierung stellt sicher, dass das Unternehmen langfristig in den Köpfen der Kunden verankert bleibt.
+
+
+# Mögliche Prüfungsfrage
+
+**Aufgabe 2: Marktsegmentierung, -auswahl und -positionierung – Fallbeispiel LEGO**
+
+Das Unternehmen LEGO plant, seine Produktpalette im europäischen Markt zu erweitern, um gezielt unterschiedliche Alterssegmente anzusprechen: Kinder (3–12 Jahre), Jugendliche (13–18 Jahre) und Erwachsene (ab 18 Jahren). Als Marketingmanager/in sollen Sie ein integriertes Konzept zur Marktsegmentierung, Zielsegmentauswahl und Positionierung entwickeln. Bearbeiten Sie dazu folgende Teilaufgaben:
+
+**a) Definition und Prozess:**
+
+- Definieren Sie Marktsegmentierung nach Kotler et al.
+- Beschreiben Sie den Ablauf von der Segmentierung über die Zielsegmentauswahl (Targeting) bis zur Positionierung und Entwicklung eines differenzierten Nutzenversprechens.
+
+**b) Segmentierungskriterien und Zielsegmentauswahl:**
+
+- Nennen und erläutern Sie kurz die vier Hauptkategorien der Segmentierung (verhaltensorientiert, psychografisch, soziodemographisch, geographisch) – jeweils mit einem Beispiel.
+- Erklären Sie den Unterschied zwischen Makro- und Mikrosegmentierung sowie den Nutzen einer multivariaten Segmentierung (z. B. anhand von Sinus-Milieus).
+- Welche zentralen Kriterien (z. B. Marktpotenzial, Wettbewerbssituation, strategische Passung) sind für die Auswahl der Zielsegmente entscheidend, und wie ordnen Sie dabei die Ansprache (Massenmarketing, Zielgruppenmarketing, Nischenmarketing, Mikromarketing) ein?
+
+**c) Differenzierung und Positionierung:**
+
+- Beschreiben Sie, wie LEGO auf Basis der identifizierten Segmente differenzierte Produkte entwickelt und welche Wettbewerbsvorteile (z. B. Innovation, Design, Markenimage) dabei im Fokus stehen.
+- Erklären Sie kurz gängige Positionierungsstrategien („Mehr für mehr“, „Mehr zum selben Preis“, „Mehr für weniger“, „Weniger für weniger“) und diskutieren Sie, wie LEGO seine Produkte für die drei Alterssegmente differenziert positionieren könnte.
+- Untermauern Sie Ihre Argumentation mit konkreten Beispielen aus der LEGO-Praxis (z. B. unterschiedliche Ansätze bei LEGO Duplo, LEGO Technic und LEGO Architecture) und erläutern Sie, wie eine konsistente Kommunikation über alle Marketing-Touchpoints zur langfristigen Kundenbindung beiträgt.

@@ -163,3 +163,60 @@ Medienunternehmen versuchen, in den positiven Kreislauf zu kommen bzw. dort zu b
 - Diese Kette verdeutlicht, wie aus einer **kreativen Idee** (Werbekonzeption) über zielgerichtete **Verbreitung** (Medienauswahl, Platzierung) letztlich **Käufe** beim Konsumenten generiert werden.
 - Medienunternehmen spielen in diesem Prozess eine zentrale Rolle, indem sie **Reichweite** und **Kommunikationsflächen** bereitstellen, während Werbeagenturen und Auftraggeber das **Werbematerial** und die **Strategie** entwickeln.
 - Die Wertschöpfung entsteht durch das Zusammenspiel aller Akteure, das darauf abzielt, die Bedürfnisse der Konsumenten zu adressieren und die Produkte der werbetreibenden Unternehmen zu vermarkten.
+
+
+# Mögliche Prüfungsfrage 
+
+Ein aufstrebendes Medienunternehmen hat sich auf die Entwicklung und Vermarktung von virtuellen Modeartikeln spezialisiert. Die digitalen Kleidungsstücke, die ausschließlich als Computerdateien existieren, sollen über eine hauseigene Online-Plattform vertrieben und via Social Media beworben werden. Neben Endverbrauchern (Modeinteressierte, Influencer) richtet sich das Angebot auch an Geschäftspartner, die exklusive Lizenzen erwerben möchten. Werbekunden nutzen die Plattform, um Zielgruppen mit einem hohen Interesse an innovativer Mode zu erreichen.
+
+---
+
+**a) Mediengüter als Wirtschaftsgüter**
+
+- **Definition und Kerneigenschaften:**  
+    Erläutern Sie, was Mediengüter aus ökonomischer Sicht ausmacht. Gehen Sie dabei insbesondere auf die Eigenschaften klassischer Wirtschaftsgüter (z. B. rechtliche Organisation, Kombination von Produktionsfaktoren, Fremdbedarfsdeckung und Gewinnmaximierung) ein und diskutieren Sie, inwiefern virtuelle Güter – wie digitale Mode – ebenfalls als Wirtschaftsgüter gelten.
+    
+- **Bezug zum Fallbeispiel:**  
+    Erklären Sie, welche besonderen Merkmale digitale Mode als virtuelles Gut besitzt (z. B. Nicht-Besitz, Skalierbarkeit, hohe Reproduzierbarkeit) und wie diese Eigenschaften das Geschäftsmodell des Unternehmens beeinflussen.
+
+---
+
+**b) Märkte von Medienunternehmen**
+
+- **Dreiebenenmodell:**  
+    Beschreiben Sie die drei Ebenen der Märkte, auf denen Medienunternehmen operieren:
+    1. **Beschaffungsmärkte:** Beschreiben Sie, welche Produktionsfaktoren (z. B. Personal, technische Infrastruktur, Inhalte und Lizenzen) ein Digital-Fashion-Unternehmen benötigt und wie diese Märkte die Basis für die Medienproduktion bilden.
+    2. **Medienunternehmen (mittlere Ebene):** Erläutern Sie, wie das Unternehmen die beschafften Faktoren kombiniert, um digitale Modeprodukte zu entwickeln, und wie dabei der Wertschöpfungsprozess organisiert wird.
+    3. **Absatzmärkte:** Diskutieren Sie die drei Absatzmärkte – Rezipientenmärkte, Abnehmer von Vorleistungen (z. B. Lizenznehmer) und Werbemärkte – und zeigen Sie auf, wie das Digital-Fashion-Unternehmen seine Produkte und Services auf diesen Märkten platziert.
+       
+- **Bezug zum Fallbeispiel:**  
+    Verdeutlichen Sie, wie die Beschaffung von kreativen Talenten, Softwarelösungen und Lizenzen, die Produktion der digitalen Kollektionen und die anschließende Distribution über die Online-Plattform und Social-Media-Kanäle zusammenwirken, um den Kundennutzen zu maximieren.
+
+---
+
+**c) Akteure auf den Medienmärkten und ihre Wechselwirkungen**
+
+- **Identifikation der Akteurstypen:**  
+    Nennen Sie die zentralen Akteure (Medienunternehmen, Rezipienten, werbungtreibende Unternehmen) und erläutern Sie deren jeweilige Rolle im Medienmarkt.
+    
+- **Interaktionen und Wechselwirkungen:**  
+    Beschreiben Sie anhand eines schematischen Modells (z. B. eines Dreiecks) die Interaktionen zwischen diesen Akteuren. Gehen Sie dabei insbesondere auf die gegenseitigen Abhängigkeiten ein:
+    - Wie trägt das Angebot hochwertiger digitaler Modeinhalte zur Reichweitenbildung und Zielgruppengenerierung bei?
+    - Inwiefern ermöglichen die gewonnenen Zielgruppen den Zugang zu attraktiven Werbemärkten?
+    - Wie beeinflusst das Konsumverhalten der Rezipienten die Werbewirkung und damit die Einnahmen des Unternehmens?
+      
+- **Fallbezug:**  
+    Illustrieren Sie, wie im Fallbeispiel die Plattform als Kommunikations- und Distributionskanal dient, um sowohl Endverbraucher als auch Geschäftspartner und Werbekunden anzusprechen.
+
+---
+
+**d) Werbungskontakt-Spirale und die Wertschöpfungskette der Werbung**
+
+- **Werbungskontakt-Spirale:**  
+    Erklären Sie das Konzept der positiven und negativen Werbungskontakt-Spirale. Diskutieren Sie, wie höhere Werbeeinnahmen in bessere Inhalte und somit in eine gesteigerte Reichweite münden können – und umgekehrt, wie Qualitätsminderungen zu einem negativen Kreislauf führen können.
+    
+- **Wertschöpfungskette der Werbung in Medien:**  
+    Beschreiben Sie die einzelnen Schritte der Werbewertschöpfungskette, von der Werbekonzeption über die Zielgruppenanalyse, die Platzierung von Werbeinhalten in redaktionellen Kontexten bis hin zur Generierung von Kaufimpulsen bei den Rezipienten.
+    
+- **Anwendung auf das Fallbeispiel:**  
+    Diskutieren Sie, wie das Digital-Fashion-Unternehmen durch gezielte Werbekampagnen (z. B. Social-Media-Spots, Influencer-Kooperationen) nicht nur seine Reichweite und Attraktivität für Werbetreibende erhöht, sondern auch den positiven Kreislauf der Werbewirkung in Gang setzt. Wie können so Werbeeinnahmen genutzt werden, um die Produktionsqualität weiter zu steigern und damit langfristig das Geschäftsmodell zu sichern?
