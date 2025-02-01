@@ -1,4 +1,4 @@
-# Marketingstrategie und Marketing-Mix
+# Marketingstrategie und Marketing-MiX
 
 ![[Pasted image 20250201003356.png]]
 
