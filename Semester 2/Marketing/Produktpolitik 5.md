@@ -122,7 +122,7 @@ Hier ist die Anwendung von Kotlers Modell der Produktdimensionen auf die digital
 - **Kurzfristige Gewinnmaximierung**:
     - Fokus auf wenige, ausgewählte Produkte mit hoher Profitabilität.
     - Typisch für Unternehmen mit schnellen Markteintritten.
-      
+
 - **Langfristige Gewinnmaximierung**:
     - Lange Produktlinien mit breiter Auswahl, um langfristige Kundenbindung zu fördern.
     - Ermöglicht Marktsegmentation und Diversifikation.
@@ -286,3 +286,56 @@ Starke Marken bieten zahlreiche Vorteile. Für Konsumenten erleichtern sie die I
 Unternehmen nutzen verschiedene Ansätze, um Marken weiterzuentwickeln. Bei der **Erweiterung der Produktlinie** (z. B. Coca-Cola) werden neue Varianten innerhalb derselben Kategorie eingeführt. Die **Markenerweiterung** (z. B. Virgin) ermöglicht die Nutzung bestehender Marken für neue Kategorien. Die **Mehrmarkenstrategie** (z. B. Mars) erlaubt es, unterschiedliche Marken für ähnliche Produktkategorien anzubieten, wodurch verschiedene Zielgruppen angesprochen und Marktanteile gesichert werden. Mars Inc. ist ein hervorragendes Beispiel für eine Mehrmarkenstrategie mit Marken wie Snickers, Pedigree und Seramis, die unterschiedliche Märkte bedienen und Risiken diversifizieren.
 
 Diese strategischen Ansätze verdeutlichen, wie Unternehmen durch gezielte Produkt- und Markenpolitik Wettbewerbsvorteile erzielen, Kundennutzen maximieren und langfristiges Wachstum sicherstellen können.
+
+# Mögliche Prüfungsfrage 
+
+**Aufgabe 5: Integrierte Produkt- und Markenpolitik am Fallbeispiel Audi**
+
+Audi ist bekannt für seine Premiumfahrzeuge und eine durchdachte Produkt- und Markenstrategie, die den Kundennutzen in den Mittelpunkt stellt und gleichzeitig innovative Technologien, Design und exzellenten Service vereint. Stellen Sie sich vor, Sie sind Marketingmanager/in bei Audi. Entwickeln Sie ein integriertes Konzept der Produktpolitik und Markenführung, das sich an den folgenden Teilaufgaben orientiert:
+
+---
+
+**a) Bedeutung des Produkts im Marketing-Mix und Kundennutzen**
+
+- **Theoretischer Rahmen:**  
+    Erläutern Sie, welche Rolle das Produkt innerhalb des Marketing-Mix spielt und wie die Abstimmung von Produkt, Preis, Promotion und Distribution zur Schaffung eines nachhaltigen Wettbewerbsvorteils beiträgt.
+
+- **Fallbezug Audi:**  
+    Diskutieren Sie, wie Audi durch innovative Produktgestaltung (z. B. modernste Technik, exquisites Design, hohe Qualität) den Kundennutzen maximiert und wie externe Einflussfaktoren (wie Wettbewerb, Lieferanten, Vertriebspartner und das Image der Marke) in die strategische Produktplanung einfließen.
+
+---
+
+**b) Produktdefinition und -dimensionen am Beispiel Audi**
+
+- **Produktbegriff und Dimensionen:**  
+    Definieren Sie den Produktbegriff und erläutern Sie die drei Dimensionen eines Produkts:
+    - **Kernprodukt:** Der zentrale Nutzen, den Audi seinen Kunden bietet (z. B. Fahrfreude, Sicherheit, Prestige).
+    - **Reales Produkt:** Die konkrete Ausgestaltung der Fahrzeuge (Qualität, Design, Ausstattung, technische Features, Verpackung als Showroom-Präsentation etc.).
+    - **Erweitertes Produkt:** Zusatzleistungen, die den Wert des Produkts steigern (z. B. Garantie, exklusiver Kundendienst, Finanzierungslösungen, digitale Services wie Infotainmentsysteme).
+
+- **Anwendung:**  
+    Illustrieren Sie diese Dimensionen anhand eines konkreten Audi-Modells und zeigen Sie auf, wie Audi so den Mehrwert für den Kunden erhöht.
+
+---
+
+**c) Strategische Produktentscheidungen und Produktliniengestaltung bei Audi**
+
+- **Einzelproduktentscheidungen:**  
+    Diskutieren Sie, welche wesentlichen Entscheidungen (z. B. bezüglich Produkteigenschaften, Design, Verpackung, Kennzeichnung und Markengebung) getroffen werden müssen, um ein einzelnes Audi-Modell marktgerecht zu positionieren.
+
+- **Produktlinien und -erweiterungen:**
+    - Erklären Sie den Begriff „Produktlinie“ und erläutern Sie, wie Audi seine Fahrzeugpalette (etwa A-Serie, Q-Serie, RS-Modelle, e-tron-Reihe) strukturiert, um unterschiedliche Zielgruppen und Marktsegmente zu bedienen.
+    - Diskutieren Sie die Vor- und Nachteile einer zu kurzen versus zu langen Produktlinie und begründen Sie, wie eine strategische Erweiterung (sowohl nach oben als auch nach unten) dazu beitragen kann, neue Kundensegmente zu erschließen und bestehende Kunden langfristig zu binden.
+
+---
+
+**d) Markenführung und -entwicklung bei Audi**
+
+- **Markenbegriff und -vorteile:**  
+    Definieren Sie, was eine Marke ausmacht, und erläutern Sie den Unterschied zwischen einem reinen Produkt und einer Marke. Gehen Sie dabei auf den symbolischen und emotionalen Mehrwert ein, den starke Marken bieten.
+    
+- **Markenstrategie:**  
+    Beschreiben Sie, welche Ziele Audi mit seiner Markenführung verfolgt (z. B. Identifikation, Differenzierung, Risikoreduktion, Aufbau eines Preispremiums) und wie Audi durch gezielte Kommunikation (über Werbung, Social Media, Sponsoring etc.) ein konsistentes Markenimage in den Köpfen der Zielkunden etabliert.
+    
+- **Strategien zur Markenentwicklung:**  
+    Diskutieren Sie, wie Audi seine Marke kontinuierlich weiterentwickelt – etwa durch Produktlinienerweiterungen, die Einführung neuer Modellvarianten oder sogar den Einstieg in neue Mobilitätskonzepte (z. B. Elektromobilität) – und wie dies zur Stärkung der Markenloyalität und zur Schaffung nachhaltiger Wettbewerbsvorteile beiträgt.

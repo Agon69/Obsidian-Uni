@@ -123,3 +123,25 @@ Diese Faktoren helfen Medienunternehmen, ihre Inhalte strategisch am Markt zu po
 - **BILD** setzt auf **Boulevardjournalismus** mit kurzen, emotionalen Berichten und einer starken Online-Strategie zur Maximierung von Werbeeinnahmen.
 - **DIE ZEIT** bietet **hochwertigen Qualitätsjournalismus**, der durch Abonnements finanziert wird, und spricht eine akademische Leserschaft an.
 - **The Guardian** ist ein **progressives Medium**, das stark auf **investigativen Journalismus** setzt und sich über freiwillige Leserbeiträge finanziert.
+
+# Mögliche Prüfungsfrage 
+
+Medienunternehmen müssen ihre Produkte – also die Inhalte und deren Distribution – strategisch gestalten, um den maximalen Kundennutzen zu erzielen und sich im Wettbewerb zu behaupten. Diskutieren Sie, wie eine differenzierte Einteilung der Medien in Gattungen und die daraus abgeleiteten Medienproduktwelten für die strategische Planung und Vermarktung genutzt werden können. Bearbeiten Sie dazu folgende Teilaufgaben:
+
+**a) Theoretische Grundlagen und Kategorisierung**
+
+- Erläutern Sie, was unter dem Begriff „Mediengattungen“ zu verstehen ist. Nennen Sie die Haupttypen (z. B. Presse, Printmedien, klassische Medien, Ambient Media, neue Medien, elektronische und digitale Medien, interaktive Medien sowie soziale Medien) und diskutieren Sie, wie diese Einteilung die strategische Planung im Medienmanagement unterstützt.
+
+- Unterscheiden Sie kurz zwischen **Medienträger** und **Medieninhalt** und erläutern Sie, warum diese Differenzierung für die wirtschaftliche Gestaltung von Medienprodukten relevant ist.
+
+**b) Medienproduktwelten und der Marketing-Mix**
+
+- Definieren Sie den Begriff „Medienproduktwelten“ und erklären Sie, wie Medienunternehmen Inhalte bündeln, um einen spezifischen Grund- und Zusatznutzen für Konsumenten zu schaffen.
+
+- Diskutieren Sie, inwiefern die klassischen Elemente des Marketing-Mix (Produkt-, Preis-, Distributions- und Kommunikationspolitik) auch für die Gestaltung von Medienproduktwelten angewendet werden – und wie diese Maßnahmen zur Positionierung und Differenzierung von Medienprodukten beitragen.
+
+**c) Fallbeispiel: Zeitung als Medienproduktwelt**
+
+- Wählen Sie als Beispiel die Printzeitung und analysieren Sie anhand von Kriterien wie Erscheinungsweise (z. B. täglich vs. wöchentlich, Format, Layout), Vertriebsart (Abo, Einzelverkauf, kostenlos/werbefinanziert), regionaler vs. überregionaler Verbreitung und Finanzierungsmodellen, wie unterschiedliche Zeitungen als Medienproduktwelten positioniert werden können.
+
+- Vergleichen Sie konkret drei Beispiele (z. B. **BILD**, **DIE ZEIT** und **The Guardian**) und erläutern Sie, welche strategischen Maßnahmen im Sinne des Marketing-Mix (Produktgestaltung, Preisstrategie, Distributionswege, Kommunikationsmaßnahmen) die jeweiligen Medien ergreifen, um ihre Zielgruppen zu erreichen und ihre Marktposition zu sichern.

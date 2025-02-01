@@ -218,3 +218,24 @@ Unternehmen müssen flexibel auf Preisänderungen der Konkurrenz reagieren
 - Einführung einer neuen Marke im unteren Preissegment
 
 
+# Mögliche Prüfungsfrage 
+
+**Aufgabe 4: Preispolitik – Entwicklung eines integrierten Preiskonzeptes am Fallbeispiel Apple**
+
+Stellen Sie sich vor, Sie sind Marketingmanager/in bei Apple und verantwortlich für die Preispolitik des neuen iPhone-Modells, das in einem globalen, wettbewerbsintensiven Markt eingeführt werden soll. Erarbeiten Sie ein Preiskonzept, das die folgenden Aspekte berücksichtigt:
+
+**a) Grundlagen und Bedeutung der Preispolitik:**
+
+- Definieren Sie den Begriff Preispolitik und erläutern Sie, warum Preisentscheidungen (Preisfestlegung, Rabatte, Zahlungsbedingungen etc.) zentral für die Erreichung der Marketingziele sind.
+- Gehen Sie dabei kurz auf Herausforderungen wie intensiven Wettbewerb, hohe Preistransparenz und die Schwierigkeit von Preiserhöhungen ein.
+
+**b) Preisstrategien bei Produkteinführungen:**
+
+- Vergleichen Sie die **Marktabschöpfungsstrategie (Market-Skimming)** und die **Marktdurchdringungsstrategie (Market Penetration)**. Welche Voraussetzungen und Risiken sind mit beiden Ansätzen verbunden?
+- Begründen Sie, welche Strategie Sie für das neue iPhone wählen würden – unter Berücksichtigung von Produktqualität, Markenimage und der Zahlungsbereitschaft der Zielgruppe.
+
+**c) Preisanpassungsstrategien und Reaktionsmöglichkeiten:**
+
+- Erläutern Sie, welche Preisanpassungsstrategien (z. B. Rabatte, diskriminierende und psychologische Preissetzung, dynamische sowie internationale Preissetzung) für eine flexible Preispolitik relevant sind.
+- Diskutieren Sie, wie Apple auf Preisänderungen der Konkurrenz reagieren kann (z. B. durch Preisangleichung, Qualitätsverbesserungen oder die Einführung neuer Marken im unteren Preissegment).
+- Unterstützen Sie Ihre Ausführungen mit konkreten Beispielen, um die Praxistauglichkeit Ihrer Strategie zu verdeutlichen.

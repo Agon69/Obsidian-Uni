@@ -412,3 +412,23 @@ Die Festlegung des Kommunikationsbudgets erfolgt durch unterschiedliche Methoden
 Ein zentraler Aspekt der Marketingkommunikation ist die **Bestimmung der Kommunikationsziele**, die auf den sechs Stadien der Kaufbereitschaft basieren: **Bewusstsein, Wissen, Sympathie, Präferenz, Überzeugung und Kaufabsicht**. Diese Stufen helfen, die Maßnahmen auf die jeweilige Phase der Kundenreise abzustimmen.
 
 Letztlich müssen Unternehmen den **Wandel in der Kommunikationstechnologie** und die **Medienfragmentierung** berücksichtigen. Zielgruppen erwarten personalisierte und konsistente Botschaften, die über verschiedene Kanäle verbreitet werden. Ein integrierter und strategisch abgestimmter Ansatz ist daher essenziell, um die Aufmerksamkeit und Loyalität der Kunden zu gewinnen.
+
+# Mögliche Prüfungsfrage 
+
+Unternehmen müssen heute ihre Kommunikationsaktivitäten über sämtliche Kanäle hinweg aufeinander abstimmen, um ein konsistentes Markenbild zu erzeugen und langfristige Kundenbeziehungen aufzubauen. Als Marketingverantwortliche/r bei Nike planen Sie die Markteinführung einer neuen Sportbekleidungslinie, die speziell junge, aktive Konsumenten anspricht. Erarbeiten Sie ein integriertes Kommunikationskonzept und gehen Sie dabei auf folgende Teilaufgaben ein:
+
+**a) Theoretische Grundlagen und Bedeutung**
+
+- Definieren Sie den Begriff der integrierten Marketingkommunikation (IMC) und erläutern Sie, warum die Abstimmung aller Kommunikationskanäle (z. B. Werbung, PR, Verkaufsförderung, persönlicher Verkauf, Direktmarketing) für den Aufbau eines einheitlichen Markenimages und die Stärkung der Kundenbindung entscheidend ist.
+
+**b) Instrumente des Kommunikations-Mix und ihre Koordination**
+
+- Nennen Sie die zentralen Instrumente des Kommunikations-Mix und erläutern Sie kurz jeweils einen Vorteil und Nachteil (z. B. bei Werbung, PR, Verkaufsförderung, persönlichem Verkauf und Direktmarketing).
+- Diskutieren Sie, wie durch eine inhaltliche und formale Abstimmung dieser Instrumente Widersprüche vermieden und eine klare, kohärente Botschaft an die Zielgruppe übermittelt werden kann.
+
+**c) Fallbeispiel Nike – Entwicklung eines integrierten Kommunikationskonzepts**
+
+- Skizzieren Sie, wie Sie als Marketingmanager/in bei Nike eine integrierte Kommunikationskampagne zur Einführung der neuen Sportbekleidungslinie gestalten würden. Berücksichtigen Sie dabei:
+    - **Zielgruppensegmentierung und Medienauswahl:** Welche Kanäle (z. B. TV, Social Media, Influencer Marketing, Flagship-Store-Personal Selling) eignen sich, um junge, aktive Konsumenten effektiv zu erreichen?
+    - **Botschaftsentwicklung:** Wie würden Sie eine konsistente, sowohl rational als auch emotional ansprechende Kernbotschaft formulieren, die den Nutzen und das Image der neuen Linie unterstreicht?
+    - **Messung der Kommunikationswirkung:** Welche Kennzahlen (z. B. Bekanntheitsgrad, Message Recall, Engagement-Raten, Verkaufszahlen) würden Sie einsetzen, um den Erfolg der Kampagne zu evaluieren?
