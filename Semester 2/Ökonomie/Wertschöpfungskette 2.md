@@ -56,12 +56,16 @@
     - Diese Mods sind Teil der Wertschöpfung, indem sie das Grundspiel erweitern und neue Einnahmequellen schaffen.
       
 - **Das „Hawk Tuah“-Meme**:
+<<<<<<< HEAD
+    
+=======
     - Ein viraler YouTube-Clip führte zu einer unvorhersehbaren Medienwertschöpfung.
     - Marken nutzten das Meme für Werbezwecke, was zeigt, wie digitale Medien spontane Wertschöpfungsprozesse ermöglichen.
       
  - **Warum ist das interessant für die Wertschöpfungskette?**
 
 - Es gibt **keine bewusste Konzeption & Initiierung** → das Video entsteht zufällig.
+>>>>>>> b90b84aced49675ba27c4aaa02154283995e3db8
 - Contentproduktion ist minimal (ein einfaches Interview).
 - **Distribution erfolgt organisch durch User-Sharing, nicht durch Unternehmen.**
 - Rezeption & Verwendung sind extrem schnelllebig.
