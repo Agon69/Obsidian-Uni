@@ -31,19 +31,18 @@ Preispositionierung
 ### **Positionierung der Marken:**
 
 1. **Lindt (oben rechts):**
-    
     - Hohe Qualität, hoher Preis
     - Positioniert als Premium-Schokolade
+      
 2. **Milka (Mitte):**
-    
     - Mittlere Qualität, mittleres Preisniveau
     - Massentaugliche Marke mit starker Markenpräsenz
+      
 3. **Choceur (oben links):**
-    
     - Hohe Qualität, aber niedriger Preis
     - Eigenmarke von Aldi, bietet gute Qualität zu günstigem Preis
+
 4. **Alpia (unten links):**
-    
     - Niedrige Qualität, niedriger Preis
     - Günstige Schokolade mit weniger hochwertigem Image
 
@@ -84,7 +83,7 @@ Niedriger Einführungspreis, um schnell Marktanteile zu gewinnen
 - Hohe Preissensibilität der Kunden
 - Vorteilhaft, wenn bereits gleiche oder ähnliche – aber teurere – Produkte existieren
 - Konkurrenz muss über den niedrigen Preis ausgeschlossen werden
-- Kein Konflikt zw. Preisstrategie und Markenimag
+- Kein Konflikt zw. Preisstrategie und Markenimage
 - Skaleneffekte → Große Produktionsmengen senken die Kosten
 
 **Risiken:**
@@ -102,7 +101,6 @@ Niedriger Einführungspreis, um schnell Marktanteile zu gewinnen
 Preise müssen während der gesamten Produktlebensdauer angepasst werden.
 
 ### **Preisanpassungsstrategien**
-
 
 #### **1. Rabatte und Preisnachlässe**
 

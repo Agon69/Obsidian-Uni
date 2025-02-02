@@ -35,7 +35,6 @@ Nachdem die Zielkunden bestimmt wurden, wird das Angebot an ihre Bedürfnisse an
 - **Positionierung**: Das Angebot wird gezielt in den Köpfen der Zielkunden verankert, z. B. durch Markenimage oder Werbebotschaften.
 
 #### **Ziel:**
-
 Durch eine **gezielte Marktsegmentierung und klare Positionierung** kann ein Unternehmen seine **Wettbewerbsfähigkeit steigern** und langfristige Kundenbindung aufbauen.
 
 
@@ -64,7 +63,7 @@ Das Bild zeigt die **Marketing-Mixbezogenen Reaktionskoeffizienten**, also versc
 
 ### Anwendungsbeispiele: 
 
-### Coca-Cola Segmentierung nach Geschlecht
+#### Coca-Cola Segmentierung nach Geschlecht
 
 #### Coca-Cola Zero
 
@@ -78,7 +77,7 @@ Das Bild zeigt die **Marketing-Mixbezogenen Reaktionskoeffizienten**, also versc
 - Maskulines Design (dunkle Farben, schwarz-rote Verpackung)
 - Werbung mit Sport, Gaming und Action-Themen
 - Betonung von **Geschmack und Intensität** („Schmeckt wie das Original, aber ohne Zucker“)
-### Coca-Cola Light
+#### Coca-Cola Light
 
 **Zielgruppe:**
 
@@ -92,7 +91,7 @@ Das Bild zeigt die **Marketing-Mixbezogenen Reaktionskoeffizienten**, also versc
 - Betonung von **Leichtigkeit und Genuss** („Erfrischender Geschmack ohne Kalorien“)
 
 --- 
-### Segmentierung von LEGO nach Altersgruppen
+#### Segmentierung von LEGO nach Altersgruppen
 
 #### LEGO für Kinder (3–12 Jahre)
 
@@ -106,7 +105,7 @@ Das Bild zeigt die **Marketing-Mixbezogenen Reaktionskoeffizienten**, also versc
 - Werbung mit spielerischen und kreativen Themen
 - Förderung von motorischen und kreativen Fähigkeiten
 
-### LEGO für Jugendliche (13–18 Jahre)
+#### LEGO für Jugendliche (13–18 Jahre)
 
 **Zielgruppe:**
 
@@ -118,7 +117,7 @@ Das Bild zeigt die **Marketing-Mixbezogenen Reaktionskoeffizienten**, also versc
 - Kooperationen mit beliebten Franchises (z. B. Star Wars, Harry Potter)
 - Fokus auf Sammlerstücke und komplexe Bauwerke
 
-### LEGO für Erwachsene (18+ Jahre)
+#### LEGO für Erwachsene (18+ Jahre)
 
 **Zielgruppe:**
 

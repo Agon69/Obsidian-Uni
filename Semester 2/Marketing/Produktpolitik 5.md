@@ -102,6 +102,7 @@ Hier ist die Anwendung von Kotlers Modell der Produktdimensionen auf die digital
 - **Beispiel Samsung**:
     - Oberkategorie: Smartphones.
     - Unterkategorien: Galaxy A-Serie (Mittelklasse), Galaxy S-Serie (Premium).
+
 - **Beispiel Canon**:
     - Oberkategorie: Digitalkameras.
     - Unterkategorien: IXUS-Reihe (kompakte Kameras).

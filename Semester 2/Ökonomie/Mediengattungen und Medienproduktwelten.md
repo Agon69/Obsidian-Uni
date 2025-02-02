@@ -57,6 +57,7 @@ Medien sind als Produkte mit bestimmten Eigenschaften und Wertversprechen konzip
 **Beispiele für Produktwelten:**
 - **Definition nach Gläser (2014: 101):**  
 	- Medienprodukte bestehen aus Inhalten, die von Medienunternehmen **entwickelt, gebündelt und distribuiert** werden, um **Kundennutzen** zu generieren.
+	  
 - **Games**: Einfluss von Gameplay, Story, Grafik, Preisstrategie und Community auf den Erfolg.
 - **Zeitung**: Differenzierung nach Tageszeitung, Wochenzeitung, Finanzierungsmodellen und Vertriebsarten.
 
