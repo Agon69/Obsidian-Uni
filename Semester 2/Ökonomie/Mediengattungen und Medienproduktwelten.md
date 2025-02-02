@@ -130,18 +130,39 @@ Medienunternehmen müssen ihre Produkte – also die Inhalte und deren Distribut
 
 **a) Theoretische Grundlagen und Kategorisierung**
 
-- Erläutern Sie, was unter dem Begriff „Mediengattungen“ zu verstehen ist. Nennen Sie die Haupttypen (z. B. Presse, Printmedien, klassische Medien, Ambient Media, neue Medien, elektronische und digitale Medien, interaktive Medien sowie soziale Medien) und diskutieren Sie, wie diese Einteilung die strategische Planung im Medienmanagement unterstützt.
+- Erläutern Sie, was unter dem Begriff „Mediengattungen“ zu verstehen ist. Nennen Sie die Haupttypen und diskutieren Sie, wie diese Einteilung die strategische Planung im Medienmanagement unterstützt.
+----
+- Mediengattungen sind unterschiedliche Bereiche der Medien, die sich durch Technologie, Nutzung und Inhalt unterscheiden. Die Haupttypen sind dabei Digitale Medien, Presse, Soziale Medien und interaktive Medien. Sie unterstützen die Nutungsmaximierung und die Vermarktung  von Medienprodukten.
+
+----
+
 
 - Unterscheiden Sie kurz zwischen **Medienträger** und **Medieninhalt** und erläutern Sie, warum diese Differenzierung für die wirtschaftliche Gestaltung von Medienprodukten relevant ist.
+---
+- Der Medienträger ist das physische oder digitale Medium was den Medieninhalt also den Content (übermittelte Informationen) überträgt. Die Unterscheidung ist für die Vermarktung der Inhalte wichtig.
+
+---
+
 
 **b) Medienproduktwelten und der Marketing-Mix**
 
 - Definieren Sie den Begriff „Medienproduktwelten“ und erklären Sie, wie Medienunternehmen Inhalte bündeln, um einen spezifischen Grund- und Zusatznutzen für Konsumenten zu schaffen.
+---
+- Medienproduktwelten definieren Eigenschaften und Nutzungsversprechen verschiedener Medienprodukten und richten sich dabei auf die Nutzenerwartung der Kundschaft aus.
 
-- Diskutieren Sie, inwiefern die klassischen Elemente des Marketing-Mix (Produkt-, Preis-, Distributions- und Kommunikationspolitik) auch für die Gestaltung von Medienproduktwelten angewendet werden – und wie diese Maßnahmen zur Positionierung und Differenzierung von Medienprodukten beitragen.
+---
+
+
+- Diskutieren Sie, inwiefern die klassischen Elemente des Marketing-Mix auch für die Gestaltung von Medienproduktwelten angewendet werden – und wie diese Maßnahmen zur Positionierung und Differenzierung von Medienprodukten beitragen.
+- ---
+- die 4 P des Marketing spielen auch bei den Medienproduktwelten eine Rolle da man auch für diese das (product) Produkt braucht was einen Bestimmten nutzen erfüllt, dieser muss auch preislich an dem gezielten Markt angepasst werden (Price). Zudem muss das Produkt die Ziel Kundschaft erreichen (Place) und das Produkt muss beworben und bekannt gemacht werden (Promotion)
+- ---
+
 
 **c) Fallbeispiel: Zeitung als Medienproduktwelt**
 
 - Wählen Sie als Beispiel die Printzeitung und analysieren Sie anhand von Kriterien wie Erscheinungsweise (z. B. täglich vs. wöchentlich, Format, Layout), Vertriebsart (Abo, Einzelverkauf, kostenlos/werbefinanziert), regionaler vs. überregionaler Verbreitung und Finanzierungsmodellen, wie unterschiedliche Zeitungen als Medienproduktwelten positioniert werden können.
+- ---
+- 
 
 - Vergleichen Sie konkret drei Beispiele (z. B. **BILD**, **DIE ZEIT** und **The Guardian**) und erläutern Sie, welche strategischen Maßnahmen im Sinne des Marketing-Mix (Produktgestaltung, Preisstrategie, Distributionswege, Kommunikationsmaßnahmen) die jeweiligen Medien ergreifen, um ihre Zielgruppen zu erreichen und ihre Marktposition zu sichern.

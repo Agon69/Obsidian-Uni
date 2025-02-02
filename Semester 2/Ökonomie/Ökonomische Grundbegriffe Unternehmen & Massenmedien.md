@@ -118,10 +118,12 @@ Diese Organisationen sind notwendig, um Medieninhalte zu produzieren und zu verb
 
 **Massenkommunikation** bedeutet:
 
+Unter Massenkommunikation verstehen wir jene Form der Kommunikation, bei der Aussagen 
 - **Öffentliche Verbreitung** ohne begrenzte Empfängerschaft
 - **Technische Verbreitungsmittel** (TV, Radio, Internet)
 - **Indirekte Kommunikation** über räumliche oder zeitliche Distanz
 - **Einseitige Informationsübermittlung** ohne Interaktion
+- an ein disperses Publikum gegeben werden.“ (Zydorek, 2023, S. 78)
 
 Massenmedien haben eine besondere gesellschaftliche Verantwortung, da sie Informationen steuern und Meinungen beeinflussen.
 
@@ -165,17 +167,70 @@ Medienunternehmen agieren als zentrale Produzenten von Medieninhalten, während 
 **a) Unternehmen als Anbieter von Mediengütern und ökonomische Zielsetzungen**
 
 - Definieren Sie den Begriff „Unternehmen“ im Kontext der Medienproduktion. Gehen Sie dabei auf wesentliche Merkmale ein (z. B. rechtliche Organisation, Kombination von Produktionsfaktoren, Fremdbedarfsdeckung, Gewinnmaximierung, ökonomisches Prinzip).
+- --
+- unternehmen sind rechtliche Organisationen die Profit Erzielung und Fremdbedarfdeckung ausgerichtet sind. Sie entscheiden autonom und sind für die Kombination von Produktionsfaktoren zuständig.
+---
+
 - Vergleichen Sie aus ökonomischer Sicht die Zielsetzungen und Entscheidungsspielräume von Unternehmen mit denen von Individuen, insbesondere hinsichtlich der Bedürfnisbefriedigung versus Profiterzielung.
+- ---
+- Beide handeln nach dem ökonomischen Prinzip
+- Individuen haben Interesse in Eigenbedarfsdeckung wogegen unternehmen Fremdbedarfsdeckung
+- Unternehmen wollen Profit erzielen, Individuen wollen Bedürfnisse erfüllen
+- beide entscheiden autonom, jedoch Individuen Richtung Konsum und Unternehmen Richtung Markt.
+----
+
+
+
 
 **b) Fallbeispiel Netflix – Ökonomische Strukturen und unternehmerische Entscheidungen**
 
 - Beschreiben Sie kurz die wesentlichen ökonomischen Merkmale eines Medienunternehmens am Beispiel von Netflix (z. B. Rechtsform, Einsatz von Produktionsfaktoren, Markt- und Konkurrenzanalysen, Investitionsentscheidungen und Risikomanagement).
+- ---
+- **Rechtsform:** Aktiengesellschaft (Inc.)
+
+- **Branche:** Medien: Streaming & Content-Produktion
+
+- **Entscheidungsbasis:** Markt- und Konkurrenzanalyse
+	- **Marktanalyse:** Identifikation von Zuschauertrends anhand von Nutzerdaten.
+	- **Investitionen:** Entwicklung neuer Serien & Filme basierend auf Zielgruppenpräferenzen.
+	- **Monetarisierung:** Einführung von Abo-Stufen mit und ohne Werbung.
+	- **Technologie:** Skalierbare Streaming-Plattform mit personalisierten Algorithmen.
+	
+- **Produktionsfaktoren:** Personal, Studios, Produktionsausrüstung
+
+- **Produktionsprozess:** Kontinuierliche Erstellung & Bereitstellung von Inhalten
+
+- **Risiko:** Hohe Investitionen, aber potenzieller Abonnentenverlust
+	- Trotz **34 Milliarden Dollar Umsatz (2023)** hat Netflix zeitweise Abonnenten verloren.
+	- Ständige **Anpassung an Konkurrenz (Disney+, Amazon Prime, HBO Max)** notwendig.
+	  
+- **Kunden:** Zuschauer, Werbepartner
+- ---
+
+
 - Erklären Sie, wie Netflix rationale, gewinnorientierte Entscheidungen trifft und dabei auf Markttrends (z. B. Nutzerverhalten, Konkurrenzdruck) reagiert, um seine Position im globalen Streaming-Markt zu behaupten.
+----
+- Plattformen Wie Netflix untersuchen oftmals den Nutzerverhalten mit Umfragen um die Kundenzufriedenheit zu erfassen und mit daten wie diese ein angepasstes Angebot zu erstellen
+- --
+
 
 **c) Massenmedien – Definition, Merkmale und gesellschaftliche Funktionen**
 
-- Definieren Sie den Begriff „Massenmedien“ und erläutern Sie deren charakteristische Merkmale (z. B. öffentliche Verbreitung, technische Übertragungsmittel, einseitige Informationsübermittlung).
+- Definieren Sie den Begriff „Massenmedien“ und erläutern Sie deren charakteristische Merkmale 
+- ---
+- einseitige kommunikation von Inhalten
+- Öffentliche Verbreitung ohne begrenzte Empfängerschaft
+- sind indirekt
+- durch technische Vorbeugungsmittel
+- disperses Publikum
+- ---
+
+
 - Diskutieren Sie die zentralen gesellschaftlichen Funktionen von Massenmedien (Information, Unterhaltung, Sozialisation, Integration, Kritik & Kontrolle, Meinungsbildung, ökonomische Funktion) und nennen Sie Kriterien zur Bewertung der Qualität von Medieninhalten (z. B. Aktualität, Relevanz, Objektivität, Verständlichkeit).
+- ---
+- Massenmedien haben gesellschaftliche Funktionen wie Information, Unterhaltung, Integration,  Kritik, Meinungsbildung und ökonomische Funktionen.
+----
+
 
 **d) Technische Medien, Medienorganisationen und kommunikative Prozesse**
 

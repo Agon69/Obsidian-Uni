@@ -118,7 +118,28 @@ Medienunternehmen und Konsumenten handeln nach ökonomischen Grundprinzipien, wo
 **a) Grundlagen der klassischen Ökonomie und Bedürfnisbefriedigung**
 
 - Erläutern Sie, wie das ökonomische Prinzip (Nutzenmaximierung) und das Konzept der begrenzten Ressourcen das Verhalten von Wirtschaftsindividuen prägen.
+- ---
+- Individuen wollen ihren Nutzen aus einem Produkt (gut) maximieren und somit das Beste aus ihren gegebenen Ressourcen erzielen. Das Konzept der begrenzten Ressourcen sorgt aber dass es die Bedürfnisse teilweise vernachlässigt werden müssen um das Ökonomische einzuhalten.(?)
+---
+
+ 
 - Gehen Sie dabei auf die unterschiedlichen Bedürfnisarten ein (z. B. anhand von Maslows Bedürfnishierarchie) und erklären Sie, warum Medienkonsum häufig höheren Bedürfnissen (wie Information, Unterhaltung und sozialer Interaktion) zugeordnet wird.
+- --
+- Einzelbedürfnisse werden durch 5 Kategorien zugeordnet: 
+
+Affektive Methode: - Unterhaltung, Entspannung oder Vergnügen befriedigen - Wirklichkeitsflucht oder Stimmungsregulierung
+
+Kognitive Motive: - Informationsbedürfnis befriedigen - Neugier, Denkanstöße, Wissenserwerb oder Verminderung von Unsicherheit
+
+Soziale Motive: 
+Soziale Bedürfnisse befriedigen durch Soziale Interaktion, Geselligkeit, Initiierung und Aufrechterhaltung von Sozialkontakten oder Suchen nach Gesprächsgrundlage
+
+Motive der Identitätsbildung und -abgrenzung: - Kann ich mich mit einem Charakter aus einem Buch, Film oder Zeitung identifizieren? - Sozialer Vergleich, Identitätsmanagement, Ausprobieren von Rollen oder Selbstfindung
+
+Motive mit Zeitbezug: - Zeit füllen oder Zeit totschlagen
+- --
+---
+
 
 **b) Grenzen des rationalen Modells und verhaltensökonomische Erkenntnisse**
 
