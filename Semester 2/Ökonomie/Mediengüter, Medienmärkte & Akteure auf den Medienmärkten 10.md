@@ -1,9 +1,37 @@
 # Wirtschaftsgüter
 ## Kerneigenschaften
 
+- Befriedigen Bedürfnisse/erbringen einen Nutzen 
+- Treffen auf Nachfrage 
+- Können einen Preis erzielen 
+- Werden am Markt angeboten 
+- Sind knapp 
+- Eigentumsrechte an ihnen sind begründbar und durchsetzbar
+
 ## Mediengüter als Wirtschaftsgüter
 
+- Die Kriterien für Wirtschaftsgüter müssen auch für Mediengüter gelten, wenn sie als Wirtschaftsgüter produziert und gehandelt werden sollen 
+	- Nur dann können sie vermarktet werden und Gewinn erzielen 
+- In den digitalen Medien ergeben sich ständig neue Potenziale für Wirtschaftsgüter, die von Unternehmen genutzt werden können
+
 ## Virtuelle Güter als Wirtschaftsgüter
+
+- Formen virtueller Güter 
+	- Funktionelle Gegenstände im Rahmen einer Handlung • 
+	- Dekorative Gegenstände (z.B. Kleidung oder Accessoires) • 
+	- Mittel der Kommunikation und Wertschätzung • 
+- Sind nur z.T. zwischen Usern tausch- oder handelbar • 
+- Werden durch reale Gegenwerte bezahlt • 
+- Unerwünschte Vervielfältigung und Übertragung kann verhindert werden • 
+- Können verknappt werden • 
+- Nutzungsbedingungen sind kontrollierbar
+
+
+- Virtuelle Güter vereinen positive Aspekte der realen und digitalen Welt (aus ökonomischer Perspektive) • 
+	- Knappheit und Ausschließbarkeit sind gegeben bzw. herstellbar • 
+	- Grenzkosten in der Produktion von Kopien durch den Anbieter liegen bei Null • 
+- Eigenschaften virtueller Güter sowie ihr Kontext sind für das Medienunternehmen gestaltbar • 
+	- Verkauf virtueller Güter kann durch viele In-Game-Faktoren gefördert werden
 
 ## Beispiel: Digital Fashion
 
