@@ -73,22 +73,21 @@ Anlehnung an das Marketing-Mix:
 ### **Wichtige Fragen für das Medienmanagement:**
 
 1. **Produktpolitik:**
-    
     - Wie ist das Medium aufgebaut? (Layout, Design, Format)
     - Welche inhaltlichen Schwerpunkte hat es?
     - Optimale Befriedigung der Kundenbedürfnisse anbieten
+      
 2. **Preispolitik:**
-    
     - Wie wird das Produkt finanziert? (Abo, Einzelverkauf, Werbung)
     - Gibt es Sonderangebote oder Preismodelle?
     - Welche Preise?
+      
 3. **Distributionspolitik:**
-    
     - Wie wird das Produkt verbreitet? (Print, Digital, Hybrid)
     - An wen Verkauft?
     - Wie Präsentiert und wie Organisiert?
+      
 4. **Kommunikationspolitik:**
-    
     - Wie wird das Produkt vermarktet? (Social Media, klassische Werbung)
     - Welche Zielgruppe wird angesprochen?
 

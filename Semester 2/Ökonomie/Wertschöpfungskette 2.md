@@ -15,12 +15,12 @@
 #### **2. Die Wertschöpfungskette in der Medienbranche**
 
 - Die Medienwertschöpfungskette umfasst mehrere Kernaktivitäten:
-    
     1. **Konzeption und Initiierung**: Entwicklung von Ideen und Konzepten für Medienprodukte.
     2. **Contentproduktion und -beschaffung**: Erstellung oder Erwerb von Inhalten.
     3. **Bündelung und Veredelung**: Verarbeitung und Zusammenstellung von Inhalten für verschiedene Formate.
     4. **Distribution und technische Verfügbarmachung**: Veröffentlichung und Verbreitung über verschiedene Kanäle.
     5. **Rezeption und Verwendung**: Nutzung durch Konsumenten.
+
 - Zusätzlich gibt es unterstützende Aktivitäten wie Finanzierung, Management, Vertrieb und rechtliche Rahmenbedingungen.
     
 

@@ -41,17 +41,23 @@ Welche Unterschiede und Gemeinsamkeiten gibt es zwischen **Individuen und Untern
 ## **4. Beispiel: Medienunternehmen Netflix**
 
 - **Rechtsform:** Aktiengesellschaft (Inc.)
+
 - **Branche:** Medien: Streaming & Content-Produktion
+
 - **Entscheidungsbasis:** Markt- und Konkurrenzanalyse
 	- **Marktanalyse:** Identifikation von Zuschauertrends anhand von Nutzerdaten.
 	- **Investitionen:** Entwicklung neuer Serien & Filme basierend auf Zielgruppenpräferenzen.
 	- **Monetarisierung:** Einführung von Abo-Stufen mit und ohne Werbung.
 	- **Technologie:** Skalierbare Streaming-Plattform mit personalisierten Algorithmen.
+	
 - **Produktionsfaktoren:** Personal, Studios, Produktionsausrüstung
+
 - **Produktionsprozess:** Kontinuierliche Erstellung & Bereitstellung von Inhalten
+
 - **Risiko:** Hohe Investitionen, aber potenzieller Abonnentenverlust
 	- Trotz **34 Milliarden Dollar Umsatz (2023)** hat Netflix zeitweise Abonnenten verloren.
 	- Ständige **Anpassung an Konkurrenz (Disney+, Amazon Prime, HBO Max)** notwendig.
+	  
 - **Kunden:** Zuschauer, Werbepartner
 
 Dieses Beispiel zeigt, dass Unternehmen **rationale Entscheidungen** zur Gewinnerzielung treffen, aber **Marktrisiken** berücksichtigen müssen.

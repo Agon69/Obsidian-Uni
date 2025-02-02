@@ -227,15 +227,68 @@ Stellen Sie sich vor, Sie sind Marketingmanager/in bei Apple und verantwortlich 
 **a) Grundlagen und Bedeutung der Preispolitik:**
 
 - Definieren Sie den Begriff Preispolitik und erläutern Sie, warum Preisentscheidungen (Preisfestlegung, Rabatte, Zahlungsbedingungen etc.) zentral für die Erreichung der Marketingziele sind.
+
+---
+Preispolitik umfasst alle Entscheidungen über das Entgeld des leistungsangebotes, wie z.b. Preisfestlegung, Rabatte und Zahlungsbedingungen.
+Weil sich die Marke wiederum unter anderem mit dem Preis identifiziert und sich dadurch ein image aufbaut. (??)
+
+---
 - Gehen Sie dabei kurz auf Herausforderungen wie intensiven Wettbewerb, hohe Preistransparenz und die Schwierigkeit von Preiserhöhungen ein.
+---
+Intensiver Wettbewerb: Preiskämpfe aufgrund von Globalisierung und Produktdifferenzierung 
+Hohe Preisdifferenz: Kunden vergleichen Gerne Preise
+Flexibilität: Preis kann schnell verändert werden 
+Wirkungsstärke: Preise beeinflussen direkt den Umsatz 
+Schwer Revidiert: ein gesenkter Preis oder ein niedriger Preis lässt sich schwer erhöhen
+
+---
 
 **b) Preisstrategien bei Produkteinführungen:**
 
 - Vergleichen Sie die **Marktabschöpfungsstrategie (Market-Skimming)** und die **Marktdurchdringungsstrategie (Market Penetration)**. Welche Voraussetzungen und Risiken sind mit beiden Ansätzen verbunden?
 - Begründen Sie, welche Strategie Sie für das neue iPhone wählen würden – unter Berücksichtigung von Produktqualität, Markenimage und der Zahlungsbereitschaft der Zielgruppe.
 
+--- 
+Market-Skimming: Preis hoch ansetzen und später senken
+- Voraussetzung: 
+	- hohe Produktqualität und starkes Markenimage
+	- Kunden müssen Preisbereitschaft haben
+- Risiken:
+	- Kunden finden alternativen die Günstiger sind
+
+Market Penetration: Recht niedrigen Preis ansetzten und später erhöhen um schnell produkte zu verkaufen und Konkurrenz verdrängen
+- Voraussetzung: 
+	- Das Konkurrenzprodukt muss höher angesetzt werden
+	- ähnliche Produkte müssen auf dem Markt sein die teurer sind
+	- keine Törken
+	- Kundensensibilität beim Preis
+- Risiken: 
+	- Impotenz
+	- Preiskrieg mit der Konkurrenz
+	- Preiserhöhung wird schwierig
+	- Konkurrenz hat ein besseres Produkt was weniger kostet
+
+---
+
 **c) Preisanpassungsstrategien und Reaktionsmöglichkeiten:**
 
 - Erläutern Sie, welche Preisanpassungsstrategien (z. B. Rabatte, diskriminierende und psychologische Preissetzung, dynamische sowie internationale Preissetzung) für eine flexible Preispolitik relevant sind.
+---
+Rabatte: Preisreduktion über gewissen Zeitraum
+diskriminierende: Preis je nach geschlecht / Beschäftigung (Student / Azubi) 
+psychologische: 9,99$ Beispiel / 1 Kaufen und 1 extra 
+dynamische: Preise nach Anfrage und Wettbewerb (Flugtickets)
+internationale: Preis je nach Auslandsmärkten (Törken mehr)
+Sonderaktionen: Besondere Angebote je nach Event (Weinachten)
+Geograpisch differenziert: Je nach Land 
+
+---
 - Diskutieren Sie, wie Apple auf Preisänderungen der Konkurrenz reagieren kann (z. B. durch Preisangleichung, Qualitätsverbesserungen oder die Einführung neuer Marken im unteren Preissegment).
+---
+
+---
 - Unterstützen Sie Ihre Ausführungen mit konkreten Beispielen, um die Praxistauglichkeit Ihrer Strategie zu verdeutlichen.
+---
+
+
+---

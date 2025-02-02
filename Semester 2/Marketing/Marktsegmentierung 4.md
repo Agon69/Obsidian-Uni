@@ -323,14 +323,70 @@ Das Unternehmen LEGO plant, seine Produktpalette im europäischen Markt zu erwei
 - Definieren Sie Marktsegmentierung nach Kotler et al.
 - Beschreiben Sie den Ablauf von der Segmentierung über die Zielsegmentauswahl (Targeting) bis zur Positionierung und Entwicklung eines differenzierten Nutzenversprechens.
 
+---
+Marktsegmentierung nach Kotler: 
+Aufteilung in Käufergruppen, die unterschiedliche Bedürfnisse / Eigenschaften und Verhaltungsweisen haben. 
+Diese erfordern unterschiedliche Produkte und definierten Marketingmix
+
+Also das Ziel ist hierbei zuallererst ein Wert für den Zielkunden schaffen
+
+1. Auswahl der zu bedienenden Kunden: wird der Markt segmentiert und dort wird sich das Zielsegment ausgesucht 
+2. Festlegung eines Nutzungsversprechens: Differenzierung, Abhebung von der Konkurrenz und Positionierung
+
+---
+
 **b) Segmentierungskriterien und Zielsegmentauswahl:**
 
 - Nennen und erläutern Sie kurz die vier Hauptkategorien der Segmentierung (verhaltensorientiert, psychografisch, soziodemographisch, geographisch) – jeweils mit einem Beispiel.
 - Erklären Sie den Unterschied zwischen Makro- und Mikrosegmentierung sowie den Nutzen einer multivariaten Segmentierung (z. B. anhand von Sinus-Milieus).
 - Welche zentralen Kriterien (z. B. Marktpotenzial, Wettbewerbssituation, strategische Passung) sind für die Auswahl der Zielsegmente entscheidend, und wie ordnen Sie dabei die Ansprache (Massenmarketing, Zielgruppenmarketing, Nischenmarketing, Mikromarketing) ein?
 
+---
+verhaltensorientiert = Wie ist die Mediennutzung, was kaufen die Leute und wieviel davon, Preisverhalten
+Kunden vergleichen die Preise eines Streaminganbieters
+
+psychografisch = Lebensstil, Aktivität, Interessen
+Sportliche Menschen interessieren sich für Eiweisshakes
+
+Soziodemographisch = Alter, Geschlecht, Brokeboy, Beruf, Sex(ualität)
+Schwarzer Jugendlicher interessiert sich für das neue Black Panther videospiel
+
+Geographisch = Wohngebiet, Bundesländer, Städte, Welten
+In Norwegen werden mehr Winterjacken verkauft weil es Kälter ist aufgrund von Törken
+
+
+Makro = Demographische Kriterien
+Mikro = Verhaltensorientierte Kriterien
+Der Nutzen einer Multivariaten Segmentierung = Man kann dadurch mehrere Segmente einbeziehen in sein Marketing, man kann anhand von dem Sinus Milieus erkennen wie sich unterschiedliche Segmente Gruppieren lassen um dadurch mehrere Bedürfnisse gleichzeitig zu Befriedigend und man lässt somit Potenzial nicht liegen. 
+
+
+Zentrale Prüfkriterien: Passt das Marktsegment zu unserem Unternehmen, können wir ein Wettbewerbsfähiges Angebot anbieten.
+Ist Marktpotenzial vorhanden? 
+Ist das Unternehmen kompetent genug für das Segment, sind die Ressourcen vorhanden?
+Wie stark ist die Konkurrenz?
+Welche Bedingung sind zum einstieg da? 
+Führt das Segment zum gesetzten langfristigen Unternehmensziel?
+
+---
+
+
 **c) Differenzierung und Positionierung:**
 
 - Beschreiben Sie, wie LEGO auf Basis der identifizierten Segmente differenzierte Produkte entwickelt und welche Wettbewerbsvorteile (z. B. Innovation, Design, Markenimage) dabei im Fokus stehen.
 - Erklären Sie kurz gängige Positionierungsstrategien („Mehr für mehr“, „Mehr zum selben Preis“, „Mehr für weniger“, „Weniger für weniger“) und diskutieren Sie, wie LEGO seine Produkte für die drei Alterssegmente differenziert positionieren könnte.
 - Untermauern Sie Ihre Argumentation mit konkreten Beispielen aus der LEGO-Praxis (z. B. unterschiedliche Ansätze bei LEGO Duplo, LEGO Technic und LEGO Architecture) und erläutern Sie, wie eine konsistente Kommunikation über alle Marketing-Touchpoints zur langfristigen Kundenbindung beiträgt.
+
+
+**Differenzierung und Positionierung bei LEGO**
+
+- **Segmentierung:**
+    - **Kinder (3–12 Jahre):** LEGO Duplo – Große, sichere Bausteine, einfach zu handhaben, optimales Preis-Leistungs-Verhältnis („Mehr für weniger“).
+    - **Jugendliche (13–18 Jahre):** LEGO Technic – Komplexe Bausysteme, technische Innovation, zusätzliche Funktionen ohne signifikante Preiserhöhung („Mehr zum selben Preis“).
+    - **Erwachsene/Sammler (ab 18):** LEGO Architecture/Creator Expert – Hochwertige, detailreiche Modelle, exklusive Designs, Premiumqualität („Mehr für mehr“).
+      
+- **Wettbewerbsvorteile:**  
+    Fokus auf Innovation, herausragendes Design und ein starkes, konsistentes Markenimage.
+    
+- **Kommunikation:**  
+    Eine kanalübergreifende, konsistente Botschaft (über Print, TV, Social Media, LEGO-Stores) stärkt das Markenimage und bindet langfristig Kunden.
+

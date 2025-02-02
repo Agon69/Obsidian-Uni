@@ -279,15 +279,90 @@ Viele Unternehmen, insbesondere digitale Plattformen wie Netflix, stützen ihre 
 **a) Marktforschungsprozess im Kontext digitaler Medien:**
 
 - Stellen Sie sich vor, Sie sind Marktforschungsmanager/in bei Netflix. Erläutern Sie den typischen Prozess der Marktforschung – von der Problemdefinition (z. B. sinkende Zuschauerzahlen in bestimmten Zielgruppen oder Regionen) über die Festlegung der Zielsetzung und das Studiendesign bis hin zur Datenerhebung, -analyse und -interpretation.
+
+---
+
+Schritt 1: Definition des Problems und Zielsetzung 
+Sinkende Zuschauerzahlen in Deutschland 
+Mögliche Untersuchungsthemen um das Problem zu beheben wären: 
+- Kundenzufriedenheit und Präferenzen -> durch Zufriedenheitsumfragen könnte das Problem genauer definiert werden warum die Zahlen sinken
+- Produkt und Preisstrategie -> Preisforschung anhand Zahlungsbereitschaft von Kunden
+- Produkttest -> Ob die Serien qualitativ hochwertig ist im Vergleich zu anderen Ländern und Unternehmen
+
+Schritt 2: Studendesign
+Studendesign ist die Methodische vorgensweise der Marktforschung
+Definition der Zielgruppen um vielleicht ein Muster zu erkennen im welchen alter die Kunden abspringen unter auch der Berücksichtigung der **demografischen**, **psychografischen** und **verhaltensbezogenen** Merkmalen.
+Danach sollte die Festlegung der Stichprobe stattfinden, hier würde es zufallsorientiert stattfinden und da das Problem in Deutschland stattfinden, benutzen wir das Flächenauswahlverfahren.
+Hierbei würde ich den den Quantitativen Forschungsansatz auswählen, weil offene Fragen vielzu aufwendig wären und die Datenmenge bei Netflix bestimmt ausreicht dafür. 
+
+Schritt 3: Methoden der Datenerhebung
+Beobachtung und Experiment ergibt hier keinen Sinn, da mit den Usern weder Experimentieren kann, noch sie beobachten kann, der Fokus sollte Internet-Befragungen sein, weil man damit die größte Datenmenge bei einem digitalen Medienträger sammeln kann.
+
+Schritt 4: Datenanalyse
+Hier wäre eine Regressionsanalyse am Sinnvollsten, da es den Zusammenhang zwischen dem auslöser, warum die Kunden in Deutschland sinken, und den Produktinhalt den Netflix bieten.
+
+Schritt 5: Dateninterpretation und Verwendung
+Das Ziel der Dateninterpretation ist hier eine Brücke zwischen dem Forschungsproblem und den Erkenntnissen herzustellen. Hier wird das Ergebnis dokumentiert und dann interpretiert.
+
+
+--- 
+
 - Welche zentralen Schritte und Methoden (wie Online-Befragungen, Nutzerverhaltenstracking, Experimente) halten Sie in diesem digitalen Umfeld für besonders wichtig, um belastbare und aussagekräftige Ergebnisse zu erzielen?
+
+---
+  Online befragungen in der Form von Ratingskalierungen würden hier zum einen weiterhelfen, da sie dir numerisch und ein eindeutiges Feedback zu deinem Produkt gibt, welche ohne große Umstände stattfinden kann und Nutzerverhaltenstracking um herauszufinden welche Serien gut laufen, wie lange sie geschaut werden und wie oft sie geschaut werden um dadurch die Bestmögliche anzahl an Serien anzubieten und auch in dem Sinne bei unnötigen Serien geld einzusparen die wenig geschaut werden.
+
+---
+
 
 **b) Charakteristika und Einflussfaktoren in der digitalen Marktforschung:**
 
-- Diskutieren Sie, welche Charakteristika – insbesondere hinsichtlich der Datenquellen (Primärforschung versus Sekundärforschung), der Erhebungsmethoden (qualitative vs. quantitative Ansätze) und der Analyseverfahren – die Qualität und Aussagekraft der Marktforschungsergebnisse bei einem Unternehmen wie Netflix maßgeblich beeinflussen.
 - Gehen Sie dabei auch auf die jeweiligen Vor- und Nachteile ein, wenn es darum geht, beispielsweise Nutzerpräferenzen und -verhalten digital zu erfassen und auszuwerten.
+
+---
+
+Vor und Nachteile bei Primär und Sekundärforschung sowie bei der quantitativen und dem qualitativen Ansatz
+
+Primärforschung
+- Vorteile
+	- Maßgeschneiderte Daten / Anwendungsspezifische Daten
+- Nachteile
+	- Aufwendig / Zeitintensiv und Viel Geld, keine Geld haben wir
+
+Sekundärforschung
+- Vorteile
+	- Billig und Schnell wie ne nutte
+- Nachteile 
+	- Ungenau
+
+Quantitative Ansatz
+- Vorteile 
+	- Man muss keine spezifische Zielgruppe ansprechen
+	- Befragung ist einfach, weil geschlossene Fragen
+	- dadurch das die Befragung geschlossen ist geht die auswertung schneller 
+	- keine Törken
+- Nachteile
+	- Törken
+	- Ausländer
+	- Es kann zu ungenauen Ergebnissen kommen, oder zu nicht zielführenden
+
+Qualitative Ansatz
+- Vorteile
+	- Genau 
+	- Zielführend
+- Nachteile: 
+	- Aufwendiger 
+	- langsamer 
+	- mehr reinstecken (hehe)
+
+---
 
 **c) Big Data und moderne Analysetechnologien als Erfolgsfaktoren:**
 
 - Analysieren Sie, wie Netflix Big Data und moderne Analysetools (z. B. Web Analytics, Cluster- oder Regressionsanalysen) einsetzt, um das Nutzerverhalten detailliert zu verstehen und personalisierte Content-Empfehlungen zu generieren.
 - Diskutieren Sie die Chancen, die sich aus der Integration großer und heterogener Datenmengen ergeben, sowie die Herausforderungen (z. B. Datenschutz, Datenqualität, technische Komplexität) und wie diese Technologien dazu beitragen, fundierte Marketingentscheidungen zu treffen.
 
+---
+Fick die scheiße 
+
+![[Pasted image 20250202001128.png]]
